@@ -1,5 +1,7 @@
 #(©)Codexbotz
 
+import requests
+
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from bot import Bot
